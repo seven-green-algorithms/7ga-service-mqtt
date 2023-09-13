@@ -1,0 +1,20 @@
+version: "3.8"
+
+services:
+    mosquitto:
+        image: eclipse-mosquitto
+        container_name: 7ga-service-mqtt
+        restart: always
+        ports:
+            - 1883:1883
+            - 8883:8883
+            - 9001:9001
+        volumes:
+                - ./mosquitto/config:/mosquitto/config
+                - ./mosquitto/data:/mosquitto/data
+        networks:
+        - 7ga-network
+networks:
+  7ga-network:
+    external: true
+
