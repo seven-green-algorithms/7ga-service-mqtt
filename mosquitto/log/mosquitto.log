@@ -46,3 +46,10 @@
 1695866969: mosquitto version 2.0.18 running
 1695867046: mosquitto version 2.0.18 terminating
 1695867046: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1695867107: mosquitto version 2.0.18 starting
+1695867107: Config loaded from /mosquitto/config/mosquitto.conf.
+1695867107: Opening ipv4 listen socket on port 1883.
+1695867107: mosquitto version 2.0.18 running
+1695867246: New connection from 172.18.0.1:42008 on port 1883.
+1695867246: New client connected from 172.18.0.1:42008 as mqtt-explorer-670a9933 (p2, c1, k60).
+1695867328: Client mqtt-explorer-670a9933 disconnected.
