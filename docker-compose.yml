@@ -13,8 +13,13 @@ services:
       - ./mosquitto/data:/mosquitto/data
       - ./mosquitto/log:/mosquitto/log
     networks:
-      - 7ga-network
+      7ga-network:
+        aliases:
+          - "7ga-service-mqtt"
 networks:
   7ga-network:
+    name: 7ga-network
+    ipam:
+      driver: default
     external: true
     driver: bridge
