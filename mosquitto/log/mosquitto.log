@@ -230,3 +230,34 @@
 1696557353: Saving in-memory database to /mosquitto/data//mosquitto.db.
 1696558177: mosquitto version 2.0.18 terminating
 1696558177: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1696691711: mosquitto version 2.0.18 starting
+1696691711: Config loaded from /mosquitto/config/mosquitto.conf.
+1696691711: Opening ipv4 listen socket on port 1883.
+1696691711: mosquitto version 2.0.18 running
+1696692366: New connection from 172.18.0.1:43752 on port 1883.
+1696692366: New client connected from 172.18.0.1:43752 as mqttjs_8272a34d (p2, c1, k60).
+1696692371: mosquitto version 2.0.18 terminating
+1696692371: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1696891641: mosquitto version 2.0.18 starting
+1696891641: Config loaded from /mosquitto/config/mosquitto.conf.
+1696891641: Opening ipv4 listen socket on port 1883.
+1696891641: mosquitto version 2.0.18 running
+1696893261: mosquitto version 2.0.18 starting
+1696893261: Config loaded from /mosquitto/config/mosquitto.conf.
+1696893261: Opening ipv4 listen socket on port 1883.
+1696893261: mosquitto version 2.0.18 running
+1696894127: New connection from 172.18.0.1:50764 on port 1883.
+1696894127: New client connected from 172.18.0.1:50764 as mqttjs_8ad0153e (p2, c1, k60).
+1696894921: New connection from 172.18.0.1:50874 on port 1883.
+1696894921: New client connected from 172.18.0.1:50874 as mqttjs_4c680613 (p2, c1, k60).
+1696895064: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1696895672: Client mqttjs_4c680613 closed its connection.
+1696895748: Client mqttjs_8ad0153e closed its connection.
+1696895819: mosquitto version 2.0.18 terminating
+1696895819: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1696970278: mosquitto version 2.0.18 starting
+1696970278: Config loaded from /mosquitto/config/mosquitto.conf.
+1696970278: Opening ipv4 listen socket on port 1883.
+1696970278: mosquitto version 2.0.18 running
+1696970805: mosquitto version 2.0.18 terminating
+1696970805: Saving in-memory database to /mosquitto/data//mosquitto.db.
